@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Datas>
+<tongbu  tongbu_flag="kof"  game_src="/export/new_fabu_server/kof_app_server/rsync/1"  game_config="/export/cmdb/new/kof_dalu/kof_dalu/ios/shangxian" game_md5="fabu.md5"  game_cmdb="cmdb_kof"  server_game_src="/home/super/update/kofyypackage/srcfiles"  server_game_conf="/home/super/update/kofyypackage/config" />
+<tongbu  tongbu_flag="and"  game_src="/export/new_fabu_server/kof_app_server/rsync/2"  game_config="/export/cmdb/new/kof_dalu/kof_dalu/ios/shangxian" game_md5="fabu.md5"  game_cmdb="cmdb_and"  server_game_src="/home/super/update/kofyypackage/srcfiles"  server_game_conf="/home/super/update/kofyypackage/config" />
+</Datas>
+
